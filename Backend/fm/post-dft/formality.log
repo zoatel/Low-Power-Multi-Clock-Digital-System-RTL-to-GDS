@@ -1,0 +1,29 @@
+Info:  Net Ref:/WORK/SYS_TOP/SO[3] is undriven.
+Info:  Net Ref:/WORK/SYS_TOP/SO[2] is undriven.
+Info:  Net Ref:/WORK/SYS_TOP/SO[1] is undriven.
+Info:  Net Ref:/WORK/SYS_TOP/SO[0] is undriven.
+Info:  Net Imp:/WORK/ALU_IN_WIDTH8_OUT_WIDTH16_DW_div_uns_0/remainder[7] is undriven.
+Info:  Net Imp:/WORK/ALU_IN_WIDTH8_OUT_WIDTH16_DW_div_uns_0/remainder[6] is undriven.
+Info:  Net Imp:/WORK/ALU_IN_WIDTH8_OUT_WIDTH16_DW_div_uns_0/remainder[5] is undriven.
+Info:  Net Imp:/WORK/ALU_IN_WIDTH8_OUT_WIDTH16_DW_div_uns_0/remainder[4] is undriven.
+Info:  Net Imp:/WORK/ALU_IN_WIDTH8_OUT_WIDTH16_DW_div_uns_0/remainder[3] is undriven.
+Info:  Net Imp:/WORK/ALU_IN_WIDTH8_OUT_WIDTH16_DW_div_uns_0/remainder[2] is undriven.
+Info:  Net Imp:/WORK/ALU_IN_WIDTH8_OUT_WIDTH16_DW_div_uns_0/remainder[1] is undriven.
+Info:  Net Imp:/WORK/ALU_IN_WIDTH8_OUT_WIDTH16_DW_div_uns_0/remainder[0] is undriven.
+Info:  Net Imp:/WORK/ALU_IN_WIDTH8_OUT_WIDTH16_DW_div_uns_0/divide_by_0 is undriven.
+Info:  Net Imp:/WORK/ALU_IN_WIDTH8_OUT_WIDTH16_DW01_sub_0/CO is undriven.
+Info:  Net Imp:/WORK/ALU_IN_WIDTH8_OUT_WIDTH16_DW01_add_0/CO is undriven.
+Info:  Net Imp:/WORK/ALU_IN_WIDTH8_OUT_WIDTH16_DW01_add_1/CO is undriven.
+Info:  guide_uniquify 92 (Line: 702)  Cannot find object "U1_CLKDIV/U10" in design 'SYS_TOP'.
+Info:  SVF Operation 92 (Line: 702) - uniquify.  Status: rejected
+Info:  guide_uniquify 92 (Line: 702)  Cannot find object "U0_CLKDIV/U10" in design 'SYS_TOP'.
+Info:  guide_uniquify 92 (Line: 702)  Cannot find object "U6_MUX2X1/U1" in design 'SYS_TOP'.
+Info:  guide_uniquify 92 (Line: 702)  Cannot find object "U5_MUX2X1/U1" in design 'SYS_TOP'.
+Info:  guide_uniquify 92 (Line: 702)  Cannot find object "U4_MUX2X1/U1" in design 'SYS_TOP'.
+Info:  guide_uniquify 92 (Line: 702)  Cannot find object "U3_MUX2X1/U1" in design 'SYS_TOP'.
+Info:  guide_uniquify 92 (Line: 702)  Cannot find object "U2_MUX2X1/U1" in design 'SYS_TOP'.
+Info:  guide_uniquify 92 (Line: 702)  Cannot find object "U1_MUX2X1/U1" in design 'SYS_TOP'.
+Info:  guide_uniquify 92 (Line: 702)  Cannot find object "U0_MUX2X1/U1" in design 'SYS_TOP'.
+Info:  guide_uniquify 100 (Line: 755)  Cannot find object "U0_ALU/dp_cluster_0/mult_38" in design 'SYS_TOP'.
+Info:  Pre-verification of Ref:/WORK/ALU_IN_WIDTH8_OUT_WIDTH16/div_42 SUCCEEDED.
+Info:  Pre-verification of Ref:/WORK/ALU_IN_WIDTH8_OUT_WIDTH16/mult_38 SUCCEEDED.
